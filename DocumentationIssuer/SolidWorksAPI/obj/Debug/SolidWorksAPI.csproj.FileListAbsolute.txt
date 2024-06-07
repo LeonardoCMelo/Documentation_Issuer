@@ -1,0 +1,10 @@
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\bin\Debug\SolidWorksAPI.dll
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\bin\Debug\SolidWorksAPI.pdb
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\bin\Debug\SolidWorks.Interop.sldworks.dll
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\bin\Debug\SolidWorks.Interop.swconst.dll
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\bin\Debug\SolidWorks.Interop.swpublished.dll
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\obj\Debug\SolidWorksAPI.csproj.AssemblyReference.cache
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\obj\Debug\SolidWorksAPI.csproj.CoreCompileInputs.cache
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\obj\Debug\SolidWor.B0B059D9.Up2Date
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\obj\Debug\SolidWorksAPI.dll
+D:\Users\leona\Documents\Projetos\Programacao\Documentation_Issuer\DocumentationIssuer\SolidWorksAPI\obj\Debug\SolidWorksAPI.pdb
